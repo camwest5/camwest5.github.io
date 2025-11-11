@@ -1,0 +1,32 @@
+---
+format: 
+    dashboard:
+        # orientation: columns
+        expandable: false
+---
+
+## Row {height=10% fill="true"}
+<br>
+
+## Row {height=90%}
+::: {.card fill="false" scrolling="false" padding=0px}
+[R with RStudio\
+Training Intensive\
+\
+27<sup>th</sup> to 29<sup>th</sup> Jan 2026](https://camwest5.github.io/r-training-intensive/setup.html){.btn .btn-outline-primary}
+:::
+
+::: {.card fill="false" scrolling="false" padding=0px}
+[Python for Data Analysis\
+Training Intensive\
+\
+3<sup>rd</sup> to 5<sup>th</sup> Feb 2026](https://camwest5.github.io/python-training-intensive/setup.html){.btn .btn-outline-primary}
+:::
+
+
+::: {.card fill="false" scrolling="false" padding=0px}
+[QGIS Training Intensive\
+(Coming soon...)\
+\
+10<sup>th</sup> to 12<sup>th</sup> Feb 2026](){.btn .btn-outline-dark}
+:::

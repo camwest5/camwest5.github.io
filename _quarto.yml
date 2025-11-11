@@ -1,0 +1,15 @@
+project:
+  type: website
+  render: 
+    - "*.qmd"
+
+website:
+  title: "Cameron West"
+
+format:
+  html:
+    theme: 
+      - default
+      - custom.scss
+    toc: true
+    embed-resources: false
